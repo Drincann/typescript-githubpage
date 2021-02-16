@@ -1,1 +1,1 @@
-[Soruce](https://github.com/microsoft/TypeScript-Website/tree/v2/packages/documentation/copy/en/javascript)
+- [type-checking-javascript-files](javascript/type-checking-javascript-files.md)

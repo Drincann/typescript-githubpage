@@ -1,6 +1,6 @@
 # 手册
 
-* [基础类型](handbook/handbook/basic-types.md)
+* [基础类型](handbook/basic-types.md)
 * [变量声明](handbook/variable-declarations.md)
 * [接口](handbook/interfaces.md)
 * [类](handbook/classes.md)
